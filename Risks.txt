@@ -1,0 +1,86 @@
+Most significant risks in cloud computing are:
+ SLA violations,proficiency to amply consider risk od a cloud provider,blame to defend perceptive data,
+ virtualization_RELATED RISK,
+ compliance risk and decrease in reliability.
+ Risk of network infringement(violation) is also more critical for cloud organizations since they are 
+ completely based on network.
+3.There are other risk like natural catastrophes has to dealt with.
+4.The vender instead of focusing on constructing the whole infrastructure can concentrate on building
+ a more user friendly and feature application.If the vender is creating the whole infrastructure he 
+ has to deal with the following things like infrastructure,storage,platform,application,services and client.
+ 
+ Infrastructure: This the base of the service or the platform virtualization.These designed according to the user.
+ 
+ Storage:In storage one can get a database or something similar and pay per gigabyte.
+ 
+ Platform:It has solution stacks for eg: Ruby on rails,python django,etc.The organiztion need not to deal with with setting
+ up of server or any uppgradation all these comes under service.
+ 
+ 
+Following are the top five security anxieties in mind:
+1.Secure data tranfer.
+2.Secure programs interfaces.
+3.Secure retained data.
+4.User access to control.
+5.Data seperation.
+
+
+-----Cloud Computing Risks------------
+#1 The solution may not meet its economic objectives.
+#2 The solution may not work in the context of the client enterprise's association and culture.
+#3 The solution may be tough to evolve due to adversity of incorporating the cloud services involved.
+#4 A catastrophe may occur from which the solution will not recover.
+#5 System value may be insufficient  in order to meet the users's needs.
+#6 There may be an existing need for sevice orientation.
+
+
+
+----Risk Management-------------
+1.It includes recognizing,considering and prioritizing risk of distinct kinds.
+Examples of risks are  : natural disaster ,legal risks like deception,robbery and sexual harassement lawsuits.
+Oraganizational practices,doubt in economic markets,flop in tasks,borrowing risks,or the security and storage of
+dara and records.
+2.Risk management is not just buying protection for the company.It also consider insurable and uninsurable risks and an
+ altenatice method.It also includes of reducing the cost of managing the risks by adapting the most suitable means.
+
+               -----Risk management process------
+   Step 1: Determination of the objective of the risk administration program
+   Step 2: Identification of the risks.
+   Step 3: Evaluation of the risks.
+   Step 4: Consideration of alternatives and selection of treatment.
+   Step 5: Implementation of the decision.
+   Step 6: Evaluation and review.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
