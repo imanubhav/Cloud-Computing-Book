@@ -30,7 +30,7 @@ Following are the top five security anxieties in mind:
 #2 The solution may not work in the context of the client enterprise's association and culture.
 #3 The solution may be tough to evolve due to adversity of incorporating the cloud services involved.
 #4 A catastrophe may occur from which the solution will not recover.
-#5 System value may be insufficient  in order to meet the users's needs.
+#5 System value may be insufficient in order to meet the users's needs.
 #6 There may be an existing need for sevice orientation.
 
 
@@ -41,7 +41,7 @@ Examples of risks are  : natural disaster ,legal risks like deception,robbery an
 Oraganizational practices,doubt in economic markets,flop in tasks,borrowing risks,or the security and storage of
 dara and records.
 2.Risk management is not just buying protection for the company.It also consider insurable and uninsurable risks and an
- altenatice method.It also includes of reducing the cost of managing the risks by adapting the most suitable means.
+ altenative method.It also includes of reducing the cost of managing the risks by adapting the most suitable means.
 
                -----Risk management process------
    Step 1: Determination of the objective of the risk administration program
@@ -50,6 +50,23 @@ dara and records.
    Step 4: Consideration of alternatives and selection of treatment.
    Step 5: Implementation of the decision.
    Step 6: Evaluation and review.
+
+-----Types of Risk Management-----
+1.Misuse and illicit use of cloud computing.
+2.Insecure interface and APIs.
+3.Vicious Insider.
+4.Issues related technology sharing.
+5.Data loss or leakage.
+6.Hijacking.
+7.Unknown Risk Profile.
+
+
+Cloud computing has flexibilty it also adss risk as it can make the malicious unauthorized person
+
+
+
+
+
 
 
 

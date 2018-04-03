@@ -1,0 +1,30 @@
+-------CIA(Confidentiality,Integrity,Availbilty)------
+1.Data Confidentiality
+refers to limiting data access only to authorized users despite of where the data is retained or how it is accessed.
+  #1 Access Control
+  #2 Passwords
+  #3 Biometrics
+  #4 Encryption
+  #5 privacy
+  #6 Ethics
+
+2.Data Integrity
+  it can compromised by malicious users, hackers,programs mistakes,computer virus,hardware constituent errors or human error.
+
+3. Data Availbilty
+   its like double checking that the only authorized user have access to data.
+  #1 Data backup plan
+  #2 Disaster Recovery Plan(DRP)
+
+-Security Authorization challenges in the cloud------
+ #1 Auditing
+ #2 Risk Administration
+
+----Secure Cloud Software Requirements----
+ #1 Monitoring a constantly changing environment
+
+---Secure cloud software testing------
+1.Tester has to effective in testing program since he has to test from all the levels from application to the cloud service provider.
+2.In cloud based testing lower the charges of testing.
+3.Cloud tools are a set of tools for establishing ,organizing,and testing Java EE application on elastic computing cloud owned by Amazon.
+4.PushToTest Test Maker is a distributed testing environment that can tests on test gear or in a cloud environment.
