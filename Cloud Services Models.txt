@@ -1,0 +1,31 @@
+There are three types of models:
+#1 SaaS(Software As a Service)
+#2 PaaS(Platform As A Service)
+#3 IaaS(InfraStructure As A Service)
+
+------SaaS------------
+Cloud provider has total control over the hardware ,middleware and operating system.It has admin control over apllication residing 
+in the server.It has limited admin and user level control over application and no control over middleware,OS and hardware.
+
+
+------PaaS------------
+1.Useful for application builder,developer,deployer and testers.
+2. Cloud provider has total control over the hardware and oS,admin control over middleware and no control over application.
+3.Cloud Subscriber subscribes to the services and has full admin rights over the application deployed and minimal rights 
+over the middleware.
+3.Cloud user do not have control over the OS or the hardware.
+4.PaaS consist of evironment for developing applications,languages for writing programs,compliler and tools for testing and deployment.
+
+
+------IaaS-------------
+1. Cloud provider has total control over the hardware and has admin control over the virtualization part(hyperviser).
+2.No control over the application,middleware and the guest operating system.
+3.Cloud subscriber has full admin rights for the application deployed,middleware and the OS.
+
+
+---------Cloud Service Models-----------
+1.Business as a service.
+2.Software as a Service.
+3.Platfrom as a service.
+4. infrastructure as a service.
+5. management as a service.

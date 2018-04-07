@@ -1,0 +1,36 @@
+-----Centralized Data Storage-----
+Pros:
+1. data can be accessed from anywhere,any time and from any device.
+Cons:
+1.Data is shared to third party server.
+2.Internet is required.
+3.Data storage is limited.
+4.Speed and bandwith usage is limited.
+
+------Maintainence and security---------
+
+Pros: end user don't have to maintain the hardware,software and all the security and antivirus
+software updates.
+Cons:
+Prone to cyber attack or hacking.
+
+------Data Access and network connectivity-------
+
+pros: Can be accessed from mobile locations.
+cons: inavailabilty of connectivity may leave users with nothing to do as they will loose access to all 
+latest data and application when connection remains down.
+
+-------Cost factor--------------
+pros:
+1.low operation cost 
+2. reduction in manpower and technical experts.
+cons:
+major corporates and companies are concerned more on speedy access of data,security and availbilty.
+this means they have to look for a dedicated server rather than  a shared server which will add more cost.
+
+------Cloud server data backup and availbilty-------------
+pros:
+comes under the resposibilty of service provider only.
+
+cons:
+there is a chance of losing the data updated during the period of taking two consecutive backups because the backup schedule of the customer's plan may vary.

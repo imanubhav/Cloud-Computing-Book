@@ -1,0 +1,7 @@
+Technologies are based on two parameters:
+1.the current investment rate
+2.current adoption rate
+Each technology depends upon any one of the following:
+1.High rate of investment /adoption
+2.Moderate rate of investment /high rate of adoption
+3.High rate inve
